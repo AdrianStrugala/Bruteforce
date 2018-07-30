@@ -1,2 +1,2 @@
 # Bruteforce
-Lamanie hasel metoda bruteforce (Linux)
+Password breaker by bruteforce method - Windows and Linux versions.
